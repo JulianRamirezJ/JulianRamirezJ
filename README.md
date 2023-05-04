@@ -22,48 +22,11 @@
 <a href="https://www.leetcode.com/julianramirezj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianramirezj" height="30" width="40" /></a>
 </p>
 
-<!-- Programming Languages -->
-<i class="devicon-c-plain"></i>
-<i class="devicon-cplusplus-plain"></i>
-<i class="devicon-rust-plain"></i>
-<i class="devicon-php-plain"></i>
-<i class="devicon-python-plain"></i>
-<i class="devicon-java-plain"></i>
+Programming Languages:
 
-<!-- Frontend Development -->
-<i class="devicon-bootstrap-plain"></i>
-<i class="devicon-react-original"></i>
-<i class="devicon-html5-plain"></i>
-<i class="devicon-css3-plain"></i>
-<i class="devicon-bootstrap-plain-wordmark"></i>
-
-<!-- Backend Development -->
-<i class="devicon-nginx-original"></i>
-<i class="devicon-rabbitmq-plain"></i>
-
-<!-- AI/ML -->
-<i class="devicon-opencv-plain"></i>
-
-<!-- Database -->
-<i class="devicon-mongodb-plain"></i>
-<i class="devicon-mysql-plain"></i>
-<i class="devicon-postgresql-plain"></i>
-
-<!-- DevOps -->
-<i class="devicon-amazonwebservices-original"></i>
-<i class="devicon-googlecloud-plain"></i>
-<i class="devicon-docker-plain"></i>
-<i class="devicon-bash-plain"></i>
-
-<!-- Framework -->
-<i class="devicon-django-plain"></i>
-<i class="devicon-laravel-plain"></i>
-<i class="devicon-flask-original"></i>
-<i class="devicon-rocket-plain"></i>
-
-<!-- Other -->
-<i class="devicon-arduino-plain"></i>
-<i class="devicon-git-plain"></i>
-<i class="devicon-linux-plain"></i>
-<i class="devicon-raspberrypi-plain"></i>
-
+C: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+C++: <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+Rust:
+PHP:
+Python: <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+Java: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
