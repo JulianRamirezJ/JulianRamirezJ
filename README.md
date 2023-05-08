@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Andres Ramirez Jimenez</h1>
-<h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure, scalable, maintainable, and high-performance software. My areas of interest include software development with a focus on the backend, as well as embedded systems programming and IoT.</h3>
+<h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure, scalable, maintainable, and high-performance software. My areas of interest include backend development, as well as embedded systems programming and IoT.</h3>
 
 - 🔭 I’m currently studying computer science at EAFIT University. 
 
