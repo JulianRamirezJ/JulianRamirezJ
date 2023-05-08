@@ -30,7 +30,7 @@ Programming Languages
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://rocket.rs" target="_blank" rel="noreferrer">![rocket](https://user-images.githubusercontent.com/57159295/236945180-1f318ce8-8752-4bfa-9f16-ec8320241e2a.png)</a>
+<a href="https://rocket.rs" target="_blank" rel="noreferrer"><img align="center" src="![rocket](https://user-images.githubusercontent.com/57159295/236945180-1f318ce8-8752-4bfa-9f16-ec8320241e2a.png)" alt="julianarj39000" height="30" width="40" /> </a>
 
 Frontend
 
