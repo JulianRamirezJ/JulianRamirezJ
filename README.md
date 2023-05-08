@@ -41,7 +41,7 @@ Programming Languages
  
  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://rocket.rs" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/57159295/236945180-1f318ce8-8752-4bfa-9f16-ec8320241e2a.png" alt="julianarj39000" height="30" width="40" /> </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://rocket.rs" target="_blank" rel="noreferrer"><img align="center" src="https://user-images.githubusercontent.com/57159295/236945180-1f318ce8-8752-4bfa-9f16-ec8320241e2a.png" alt="julianarj39000" height="40" width="40" /> </a>
  
  DevOps
  
