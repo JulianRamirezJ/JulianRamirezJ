@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying computer science at EAFIT University. 
 
-- 🌱 I’m currently learning  different DevOps tools like **Docker, GCP and ¿ AWS.**
+- 🌱 I’m currently learning  different DevOps tools like **Docker, GCP and AWS.**
 
 - 👯 I am currently programming in different languages like **Rust, C++, PHP, Python and Java.**
 
