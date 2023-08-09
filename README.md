@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian Andres Ramirez Jimenez</h1>
+<h1 align="center">Hi 👋, I'm Julian  Ramirez </h1>
 <h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure software. My areas of interest include backend development and cybersecurity.</h3>
 
 - 🔭 I’m currently studying computer science at EAFIT University. 
