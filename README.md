@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Andres Ramirez Jimenez</h1>
-<h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure, scalable, maintainable, and high-performance software. My areas of interest include backend development, as well as low-level programming and distributed systems.</h3>
+<h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure software. My areas of interest include backend development and cybersecurity.</h3>
 
 - 🔭 I’m currently studying computer science at EAFIT University. 
 
@@ -7,13 +7,6 @@
 
 - 👯 I am currently programming in different languages like **Rust, C++, PHP, Python and Java.**
 
-- 🤝 I’m looking for help with **get a intern or entry-level job, since I have no laboral experience.**
-
-- 💬 Ask me about **folk music, Star Wars and strategy games.**
-
-- 📫 How to reach me **julianarj39000@gmail.com**
-
-- ⚡ Fun fact **I am an amateur guitarist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
