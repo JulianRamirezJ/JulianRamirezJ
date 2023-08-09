@@ -8,12 +8,6 @@
 - 👯 I am currently programming in different languages like **Rust, C++, PHP, Python and Java.**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/julianramirezj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianramirezj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/julianarj39000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="julianarj39000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/julianramirezj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianramirezj" height="30" width="40" /></a>
-</p>
 <h3 align="left">Skills:</h3>
 Programming Languages
 
