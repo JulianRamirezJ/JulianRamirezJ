@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying computer science at EAFIT University. 
 
-- 🌱 I’m currently learning  different DevOps tools like **Docker, GCP and AWS.**
+- 🌱 I’m currently learning  different DevOps tools like **Docker, GCP and AWS.
 
-- 👯 I am currently studying cybersecurity through TryHackMe and Books.**
+- 👯 I am currently studying cybersecurity through TryHackMe and Books.
 
 
 <h3 align="left">Skills:</h3>
