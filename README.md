@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  different DevOps tools like **Docker, GCP and AWS.**
 
-- 👯 I am currently programming in different languages like **Rust, C++, PHP, Python and Java.**
+- 👯 I am currently studying cybersecurity through TryHackMe and Books.**
 
 
 <h3 align="left">Skills:</h3>
