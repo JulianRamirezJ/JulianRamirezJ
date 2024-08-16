@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julian  Ramirez </h1>
-<h3 align="center">I'm a Computer Science student with a passion for technology, focused on creating secure software. My areas of interest include backend development and cybersecurity.</h3>
+<h3 align="center">I'm a Computer Engineer passionate about technology, focused on creating secure software. My areas of interest include backend development and cybersecurity.</h3>
 
-- 🔭 I’m currently studying computer science at EAFIT University. 
+- 🔭 I recently graduated with a BSc in Computer Engineering from EAFIT University. 
 
 - 🌱 I’m currently learning  different DevOps tools like Docker, GCP and AWS.
 
-- 👯 I am currently studying cybersecurity through TryHackMe and Books.
+- 👯 I am currently working as a Security Engineer.
 
 
 <h3 align="left">Skills:</h3>
