@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  different DevOps tools like Docker, GCP and AWS.
 
-- 👯 I am currently working as a Security Engineer.
+- 👯 I have worked on Security Engineer and Software Engineer.
 
 
 <h3 align="left">Skills:</h3>
