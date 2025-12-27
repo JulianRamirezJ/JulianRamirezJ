@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julian  Ramirez </h1>
 <h3 align="center">I'm a Computer Engineer passionate about technology, focused on creating secure software. My areas of interest include backend development and cybersecurity.</h3>
 
-- 🔭 I recently graduated with a BSc in Computer Engineering from EAFIT University. 
+-  I recently graduated with a BSc in Computer Engineering from EAFIT University. 
 
-- 🌱 I’m currently learning  different DevOps tools like Docker, GCP and AWS.
-
-- 👯 I have worked on Security Engineer and Software Engineer roles.
+-  I have worked on Security Engineer and Software Engineer roles.
 
 
 <h3 align="left">Skills:</h3>
